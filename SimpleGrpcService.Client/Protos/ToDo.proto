@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+option csharp_namespace = "SimpleGrpcService";
+
+package ToDo;
+
+service ToDoVerwaltung {
+  rpc GetToDos (Empty) returns (Todos);
+
+  rpc GetToDosStream (Empty) returns (stream ToDoItem);
+
+  rpc GetToDo (ToDoId) returns (ToDoItem);
+
+  rpc DeleteToDo (ToDoItem) returns (Ergebnis);
+
+  rpc CheckToDoItem (ToDoId) returns (Ergebnis);
+}
+
+message Todos {
+	repeated ToDoItem todos = 1;
+}
+
+message ToDoItem {
+	int32 id = 1;	
+	string beschreibung = 2;
+	bool erledigt = 3;
+}
+
+message Ergebnis {
+	bool erfolgreich = 1;
+}
+
+message ToDoId {
+	int32 id = 1;
+}
+
+message Empty {
+
+}

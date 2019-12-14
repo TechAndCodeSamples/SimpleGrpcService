@@ -1,0 +1,16 @@
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\SimpleGrpcService.Client.exe
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\obj\Debug\netcoreapp3.0\SimpleGrpcService.Client.AssemblyInfoInputs.cache
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\obj\Debug\netcoreapp3.0\SimpleGrpcService.Client.AssemblyInfo.cs
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\Grpc.Net.Client.dll
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\Grpc.Net.Common.dll
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\obj\Debug\netcoreapp3.0\SimpleGrpcService.Client.csproj.CopyComplete
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\SimpleGrpcService.Client.deps.json
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\SimpleGrpcService.Client.runtimeconfig.json
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\SimpleGrpcService.Client.runtimeconfig.dev.json
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\SimpleGrpcService.Client.dll
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\bin\Debug\netcoreapp3.0\SimpleGrpcService.Client.pdb
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\obj\Debug\netcoreapp3.0\SimpleGrpcService.Client.dll
+C:\repos\SimpleGrpcService\SimpleGrpcService\SimpleGrpcService.Client\obj\Debug\netcoreapp3.0\SimpleGrpcService.Client.pdb
