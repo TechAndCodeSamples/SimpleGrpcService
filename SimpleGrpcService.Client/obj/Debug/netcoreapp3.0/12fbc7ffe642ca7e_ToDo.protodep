@@ -1,2 +1,0 @@
-obj\Debug\netcoreapp3.0/ToDo.cs \
-obj\Debug\netcoreapp3.0/ToDoGrpc.cs: Protos/ToDo.proto
